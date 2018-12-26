@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../alice/alice.iml" filepath="$PROJECT_DIR$/../alice/alice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../coverset/coverset.iml" filepath="$PROJECT_DIR$/../coverset/coverset.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../heap/heap.iml" filepath="$PROJECT_DIR$/../heap/heap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../linkedlist/linkedlist.iml" filepath="$PROJECT_DIR$/../linkedlist/linkedlist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mapsorting/mapsorting.iml" filepath="$PROJECT_DIR$/../mapsorting/mapsorting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../recursion/recursion.iml" filepath="$PROJECT_DIR$/../recursion/recursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../sorting/sorting.iml" filepath="$PROJECT_DIR$/../sorting/sorting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../stacksqueues/stacksqueues.iml" filepath="$PROJECT_DIR$/../stacksqueues/stacksqueues.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../stringexamples/stringexamples.iml" filepath="$PROJECT_DIR$/../stringexamples/stringexamples.iml" />
+    </modules>
+  </component>
+</project>

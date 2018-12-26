@@ -1,0 +1,103 @@
+{
+  "inventor": {
+    "categories": [
+      {
+        "id": "B7V403JN6CAFG",
+        "name": "Snacks",
+        "items": [
+          {
+            "id": "27Y2TFTQEJ0JG",
+            "name": "Pop Chips",
+            "price": 80
+          },
+          {
+            "id": "JHMB2S8V3TC7R",
+            "name": "Almonds",
+            "price": 10
+          },
+          {
+            "id": "4B8MA87HMQJVR",
+            "name": "Gum",
+            "price": 10
+          }
+        ]
+      },
+      {
+        "id": "G24M40FB7TDW0",
+        "name": "Drinks",
+        "items": [
+          {
+            "id": "Z9C0CS8VP413R",
+            "name": "Diet Coke",
+            "price": 50
+          },
+          {
+            "id": "YK5YD8NCPXY86",
+            "name": "Coke Zero",
+            "price": 50
+          },
+          {
+            "id": "TQM1F7V8YSW6M",
+            "name": "Lemonade",
+            "price": 50
+          }
+        ]
+      }
+    ],
+    "combos": [
+      {
+        "id": "R3VC63KP6XZ1T",
+        "name": "Combo Meal",
+        "discount": -50,
+        "categories": [
+          "B7V403JN6CAFG",
+          "B7V403JN6CAFG",
+          "G24M40FB7TDW0"
+        ]
+      },
+      {
+        "id": "N7FNFE53X2ZCT",
+        "name": "Mini Combo",
+        "discount": -20,
+        "categories": [
+          "G24M40FB7TDW0",
+          "B7V403JN6CAFG"
+        ]
+      }
+    ]
+  },
+  "orders": [
+    {
+      "id": 0,
+      "items": [
+        "JHMB2S8V3TC7R",
+        "TQM1F7V8YSW6M"
+      ]
+    },
+    {
+      "id": 1,
+      "items": [
+        "JHMB2S8V3TC7R",
+        "4B8MA87HMQJVR",
+        "YK5YD8NCPXY86"
+      ]
+    },
+    {
+      "id": 2,
+      "items": [
+        "JHMB2S8V3TC7R",
+        "4B8MA87HMQJVR"
+      ]
+    },
+    {
+      "id": 3,
+      "items": [
+        "JHMB2S8V3TC7R",
+        "4B8MA87HMQJVR",
+        "4B8MA87HMQJVR",
+        "TQM1F7V8YSW6M",
+        "YK5YD8NCPXY86"
+      ]
+    }
+  ]
+}
